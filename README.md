@@ -1,5 +1,4 @@
 ### Olá, Sou o João Paulo! 👋
-- 🌱 I’m currently learning Java, JavaScript, Html e css.
 <div align="center">
   <a href="https://github.com/JoaoPauloPai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloPai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,4 +16,6 @@
 </div>
   
  ##
+    <div>
     ![Snake animation](https://github.com/JoaoPauloPai/JoaoPauloPai/blob/output/github-contribution-grid-snake.svg)
+  </div>
