@@ -15,7 +15,7 @@
 <!-- <img align="right" alt="Jp" height="150" style="border-radius:50px;" src="**https://drive.google.com/file/d/1GEvS4kInQ6sPpixpiBPZJnxTFBngE0PF/view?usp=sharing**"> -->
 </div>
   <div>
-      <!-- ![Snake animation](https://github.com/JoaoPauloPai/JoaoPauloPai/blob/output/github-contribution-grid-snake.svg)  -->
+       ![Snake animation](https://github.com/JoaoPauloPai/JoaoPauloPai/blob/output/github-contribution-grid-snake.svg)  
   </div>
     
   
