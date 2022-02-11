@@ -1,4 +1,9 @@
-### Olá, Sou o João Paulo! 👋
+###              Olá, sou o João Paulo! 
+###              Meu lugar predileto, é na frente de um computador....👋
+
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/93561479/150832404-0705ba94-5b52-4349-a343-b4dd0f8165d0.gif"/>
+</div>
 <div align="center">
   <a href="https://github.com/JoaoPauloPai">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloPai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
