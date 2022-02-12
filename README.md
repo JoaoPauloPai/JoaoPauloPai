@@ -1,13 +1,13 @@
 ###              Olá, sou o João Paulo! 
 ###              Onde a felicidade é completa....
-###              Em frente a um computador!!!👋
+###              Codar, é tudo de bommm!!!👋
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/93561479/150832404-0705ba94-5b52-4349-a343-b4dd0f8165d0.gif"/>
-      <div>
-             <img align="right" alt="Jp" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68359416/153691630-e52f78ce-c51a-4838-878c-ae89b4917ce5.png"> 
-     </div>
 </div>
+     <div align="right">
+             <img align="center" alt="Jp" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/68359416/153691630-e52f78ce-c51a-4838-878c-ae89b4917ce5.png"> 
+     </div>
 
   ##
 <div align="center">
