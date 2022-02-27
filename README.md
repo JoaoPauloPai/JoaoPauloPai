@@ -1,6 +1,12 @@
 ###              Olá, sou o João Paulo! 
-###              Onde a felicidade é completa....
-###              Codar, é tudo de bommm!!!👋
+
+  ##
+
+###              Graduando em Engenharia de Software
+
+  ##
+  
+###              Buscando conhecimento pra ser um Full-Stack!!!👋
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/93561479/150832404-0705ba94-5b52-4349-a343-b4dd0f8165d0.gif"/>
