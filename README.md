@@ -2,7 +2,7 @@
 
   ##
 
-###              Graduando em Engenharia de Software
+###              Graduado em Engenharia de Software
 
   ##
   
